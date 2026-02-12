@@ -1,0 +1,157 @@
+{
+  "id": "blindbox",
+  "article": {
+    "title": "Blind Boxes: Joy or Worry?\n盲盒：快樂還是擔憂？",
+    "paragraphs": [
+      {
+        "id": 1,
+        "english": "Blind boxes have become extremely popular among young people in recent years. A blind box is a sealed box containing a random toy from a series. Consumers do not know which one they will get until they open it.",
+        "translation": "🌐 近年來，盲盒在年輕人中變得極受歡迎。盲盒是一個密封的盒子，內含一系列玩具中的隨機一款。消費者在打開之前不知道會得到哪一款。",
+        "implication": {
+          "english": "💡 The uncertainty and surprise of blind boxes attract many young consumers, creating a huge market.",
+          "chinese": "💡 盲盒的不確定性與驚喜感吸引了許多年輕消費者，創造出巨大的市場。"
+        }
+      },
+      {
+        "id": 2,
+        "english": "Some people think blind boxes bring fun and relieve stress. Collecting a full set of toys gives them a sense of achievement. However, others worry that blind boxes may encourage overspending, especially among teenagers who have limited self-control.",
+        "translation": "🌐 有些人認為盲盒帶來樂趣並緩解壓力。收集整套玩具讓他們有成就感。然而，其他人擔心盲盒可能會鼓勵過度消費，尤其是在自制力有限的青少年中。",
+        "implication": {
+          "english": "💡 The double-edged nature of blind boxes: entertainment vs. potential financial risk.",
+          "chinese": "💡 盲盒的雙面性：娛樂與潛在的財務風險。"
+        }
+      },
+      {
+        "id": 3,
+        "english": "In addition, environmentalists point out that blind boxes generate a lot of waste, including packaging and unwanted duplicate toys. They suggest that companies should use eco-friendly materials and encourage recycling.",
+        "translation": "🌐 此外，環保人士指出盲盒產生大量廢棄物，包括包裝和不需要的重複玩具。他們建議公司應使用環保材料並鼓勵回收。",
+        "implication": {
+          "english": "💡 Environmental concerns are rising; sustainable practices are needed in the blind box industry.",
+          "chinese": "💡 環保議題日益受到關注，盲盒產業需要可持續的做法。"
+        }
+      }
+    ]
+  },
+  "vocabulary": [
+    { "id": 1, "word": "blind box", "meaning": "n. 盲盒", "highlightClass": "highlight1" },
+    { "id": 2, "word": "popular", "meaning": "adj. 受歡迎的", "highlightClass": "highlight2" },
+    { "id": 3, "word": "random", "meaning": "adj. 隨機的", "highlightClass": "highlight3" },
+    { "id": 4, "word": "consumer", "meaning": "n. 消費者", "highlightClass": "highlight4" },
+    { "id": 5, "word": "uncertainty", "meaning": "n. 不確定性", "highlightClass": "highlight5" },
+    { "id": 6, "word": "stress", "meaning": "n. 壓力", "highlightClass": "highlight1" },
+    { "id": 7, "word": "achievement", "meaning": "n. 成就", "highlightClass": "highlight2" },
+    { "id": 8, "word": "overspend", "meaning": "v. 過度消費", "highlightClass": "highlight3" },
+    { "id": 9, "word": "self-control", "meaning": "n. 自制力", "highlightClass": "highlight4" },
+    { "id": 10, "word": "environmentalist", "meaning": "n. 環保人士", "highlightClass": "highlight5" }
+  ],
+  "answers": {
+    "vocab": ["popular", "random", "consumer", "stress", "achievement", "overspend", "self-control", "environmentalist", "blind box", "uncertainty"],
+    "reading": ["B", "A", "C", "B", "C", "A", "B", "A"],
+    "cloze": ["blind", "random", "consumers", "stress", "achievement", "overspending", "self-control", "environmentalists", "recycle", "packaging"],
+    "sevenFive": ["A", "E", "C", "D", "F", "B", "G"],
+    "grammar": ["among", "a", "which", "them", "is encouraged", "to collect", "their", "but", "to reduce", "recycling"]
+  },
+  "vocabUsage": {
+    "questions": [
+      "Many young people love collecting <span class='vocab-dropzone' id='vocab-drop-1' ondrop='dropVocab(event)' ondragover='allowDrop(event)'></span>.",
+      "This toy is very <span class='vocab-dropzone' id='vocab-drop-2' ondrop='dropVocab(event)' ondragover='allowDrop(event)'></span> in Asia.",
+      "The prize is given in a <span class='vocab-dropzone' id='vocab-drop-3' ondrop='dropVocab(event)' ondragover='allowDrop(event)'></span> order.",
+      "As a <span class='vocab-dropzone' id='vocab-drop-4' ondrop='dropVocab(event)' ondragover='allowDrop(event)'></span>, you should spend wisely.",
+      "The <span class='vocab-dropzone' id='vocab-drop-5' ondrop='dropVocab(event)' ondragover='allowDrop(event)'></span> of the result makes it exciting.",
+      "Playing with blind boxes helps me relieve <span class='vocab-dropzone' id='vocab-drop-6' ondrop='dropVocab(event)' ondragover='allowDrop(event)'></span>.",
+      "Completing the set gives me a sense of <span class='vocab-dropzone' id='vocab-drop-7' ondrop='dropVocab(event)' ondragover='allowDrop(event)'></span>.",
+      "Teenagers may easily <span class='vocab-dropzone' id='vocab-drop-8' ondrop='dropVocab(event)' ondragover='allowDrop(event)'></span> on blind boxes.",
+      "It requires strong <span class='vocab-dropzone' id='vocab-drop-9' ondrop='dropVocab(event)' ondragover='allowDrop(event)'></span> to resist buying too many.",
+      "<span class='vocab-dropzone' id='vocab-drop-10' ondrop='dropVocab(event)' ondragover='allowDrop(event)'></span> call for less waste in production."
+    ],
+    "options": ["blind box", "popular", "random", "consumer", "uncertainty", "stress", "achievement", "overspend", "self-control", "environmentalist"]
+  },
+  "readingComprehension": [
+    {
+      "question": "1. What is the main idea of the passage?",
+      "options": [
+        { "id": "A", "text": "A. How to open a blind box" },
+        { "id": "B", "text": "B. The popularity and concerns of blind boxes" },
+        { "id": "C", "text": "C. The history of blind boxes" },
+        { "id": "D", "text": "D. How to recycle blind boxes" }
+      ]
+    },
+    {
+      "question": "2. Why do some people like blind boxes?",
+      "options": [
+        { "id": "A", "text": "A. Because they are fun and reduce stress" },
+        { "id": "B", "text": "B. Because they are cheap" },
+        { "id": "C", "text": "C. Because they are easy to get" },
+        { "id": "D", "text": "D. Because they are environmentally friendly" }
+      ]
+    },
+    {
+      "question": "3. What is a negative effect of blind boxes according to the passage?",
+      "options": [
+        { "id": "A", "text": "A. They are too expensive" },
+        { "id": "B", "text": "B. They are hard to find" },
+        { "id": "C", "text": "C. They may cause overspending" },
+        { "id": "D", "text": "D. They are only for children" }
+      ]
+    },
+    {
+      "question": "4. What do environmentalists worry about?",
+      "options": [
+        { "id": "A", "text": "A. Blind boxes are not popular enough" },
+        { "id": "B", "text": "B. Blind boxes produce too much waste" },
+        { "id": "C", "text": "C. Blind boxes are too noisy" },
+        { "id": "D", "text": "D. Blind boxes are made of plastic" }
+      ]
+    },
+    {
+      "question": "5. What suggestion do environmentalists give?",
+      "options": [
+        { "id": "A", "text": "A. Stop making blind boxes" },
+        { "id": "B", "text": "B. Use cheaper materials" },
+        { "id": "C", "text": "C. Use eco-friendly materials and encourage recycling" },
+        { "id": "D", "text": "D. Sell blind boxes only online" }
+      ]
+    },
+    {
+      "question": "6. What does \"overspending\" probably mean?",
+      "options": [
+        { "id": "A", "text": "A. Spending too much money" },
+        { "id": "B", "text": "B. Spending too little money" },
+        { "id": "C", "text": "C. Saving money" },
+        { "id": "D", "text": "D. Borrowing money" }
+      ]
+    },
+    {
+      "question": "7. Who may have limited self-control according to the passage?",
+      "options": [
+        { "id": "A", "text": "A. Teenagers" },
+        { "id": "B", "text": "B. Adults" },
+        { "id": "C", "text": "C. Environmentalists" },
+        { "id": "D", "text": "D. Toy companies" }
+      ]
+    },
+    {
+      "question": "8. What is NOT mentioned in the passage?",
+      "options": [
+        { "id": "A", "text": "A. The price of blind boxes" },
+        { "id": "B", "text": "B. The fun of collecting" },
+        { "id": "C", "text": "C. The waste problem" },
+        { "id": "D", "text": "D. The suggestion for companies" }
+      ]
+    }
+  ],
+  "clozeText": "Blind boxes have become <span class='grammar-blank'><input type='text' class='cloze-input' id='cloze-1' maxlength='10'></span> popular among young people. A blind box is a sealed box with a <span class='grammar-blank'><input type='text' class='cloze-input' id='cloze-2' maxlength='10'></span> toy inside. <span class='grammar-blank'><input type='text' class='cloze-input' id='cloze-3' maxlength='15'></span> do not know what they will get. This <span class='grammar-blank'><input type='text' class='cloze-input' id='cloze-4' maxlength='15'></span> makes it exciting. Some say blind boxes help reduce <span class='grammar-blank'><input type='text' class='cloze-input' id='cloze-5' maxlength='10'></span>. Collecting a full set gives a feeling of <span class='grammar-blank'><input type='text' class='cloze-input' id='cloze-6' maxlength='15'></span>. However, others worry that people may <span class='grammar-blank'><input type='text' class='cloze-input' id='cloze-7' maxlength='15'></span>. Teenagers in particular lack <span class='grammar-blank'><input type='text' class='cloze-input' id='cloze-8' maxlength='15'></span>. Also, <span class='grammar-blank'><input type='text' class='cloze-input' id='cloze-9' maxlength='15'></span> say blind boxes create a lot of waste. They suggest using eco-friendly materials and encouraging <span class='grammar-blank'><input type='text' class='cloze-input' id='cloze-10' maxlength='15'></span>.",
+  "sevenFive": {
+    "text": "Blind boxes have taken the market by storm. <span class='seven-five-dropzone' id='drop-1' ondrop='drop(event)' ondragover='allowDrop(event)'></span>, young people love the surprise inside. Each box contains <span class='seven-five-dropzone' id='drop-2' ondrop='drop(event)' ondragover='allowDrop(event)'></span> toy from a series. This uncertainty brings joy but also <span class='seven-five-dropzone' id='drop-3' ondrop='drop(event)' ondragover='allowDrop(event)'></span>. Some fans spend too much money trying to complete their collection. <span class='seven-five-dropzone' id='drop-4' ondrop='drop(event)' ondragover='allowDrop(event)'></span>, teenagers are more likely to overspend because they have weaker self-control. Environmentalists also criticize the industry for producing too much waste. They urge companies <span class='seven-five-dropzone' id='drop-5' ondrop='drop(event)' ondragover='allowDrop(event)'></span>. The debate continues: are blind boxes a harmless hobby or a hidden trap? <span class='seven-five-dropzone' id='drop-6' ondrop='drop(event)' ondragover='allowDrop(event)'></span>, the market keeps growing. Perhaps <span class='seven-five-dropzone' id='drop-7' ondrop='drop(event)' ondragover='allowDrop(event)'></span> is to find a balance between fun and responsibility.",
+    "options": [
+      { "id": "A", "text": "A. On one hand" },
+      { "id": "B", "text": "B. a random" },
+      { "id": "C", "text": "C. financial risks" },
+      { "id": "D", "text": "D. In particular" },
+      { "id": "E", "text": "E. to use greener packaging" },
+      { "id": "F", "text": "F. Nevertheless" },
+      { "id": "G", "text": "G. the key" }
+    ]
+  },
+  "grammarText": "Blind boxes are popular <span class='grammar-blank'><input type='text' class='grammar-input' id='grammar-1' maxlength='10'></span> young people. Each box contains <span class='grammar-blank'><input type='text' class='grammar-input' id='grammar-2' maxlength='5'></span> random toy, <span class='grammar-blank'><input type='text' class='grammar-input' id='grammar-3' maxlength='10'></span> buyers do not know until they open it. This gives <span class='grammar-blank'><input type='text' class='grammar-input' id='grammar-4' maxlength='10'></span> (them) a feeling of surprise. Collecting a full set <span class='grammar-blank'><input type='text' class='grammar-input' id='grammar-5' maxlength='15'></span> (encourage) by some brands. However, it is easy <span class='grammar-blank'><input type='text' class='grammar-input' id='grammar-6' maxlength='15'></span> (collect) too many and spend too much. Teenagers often lack <span class='grammar-blank'><input type='text' class='grammar-input' id='grammar-7' maxlength='10'></span> (they) self-control. Environmentalists point out that most blind boxes are not recyclable, <span class='grammar-blank'><input type='text' class='grammar-input' id='grammar-8' maxlength='5'></span> they suggest <span class='grammar-blank'><input type='text' class='grammar-input' id='grammar-9' maxlength='15'></span> (reduce) plastic use. The future of blind boxes depends on how companies balance fun with responsibility. The cause of overconsumption is still under <span class='grammar-blank'><input type='text' class='grammar-input' id='grammar-10' maxlength='15'></span> (investigate)."
+}

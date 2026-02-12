@@ -1,0 +1,16 @@
+[
+  {
+    "id": "hongkongfire",
+    "folder": "unit1",
+    "jsonFile": "hongkongfire.json",
+    "title": "Hong Kong Fire",
+    "subtitle": "A Severe Fire in Hong Kong"
+  },
+  {
+    "id": "blindbox",
+    "folder": "unit2",
+    "jsonFile": "blindbox.json",
+    "title": "Blind Box",
+    "subtitle": "The Popularity of Blind Boxes"
+  }
+]
